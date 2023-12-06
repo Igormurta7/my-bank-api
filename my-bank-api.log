@@ -1,0 +1,16 @@
+2023-11-30T23:29:32.490Z [my-bank-api] info: API started and file created!
+2023-11-30T23:29:46.021Z [my-bank-api] error: POST /account - ENOENT: no such file or directory, open 'C:\Users\igorm\OneDrive\Documents\FullStack\my-bank-api\accounts.json'
+2023-11-30T23:36:36.678Z [my-bank-api] info: API started and file created!
+2023-11-30T23:37:26.635Z [my-bank-api] info: API started!
+2023-11-30T23:39:07.285Z [my-bank-api] info: API started!
+2023-11-30T23:40:37.881Z [my-bank-api] info: API started!
+2023-11-30T23:40:48.650Z [my-bank-api] info: API started!
+2023-11-30T23:41:40.139Z [my-bank-api] info: API started!
+2023-11-30T23:43:03.329Z [my-bank-api] info: API started!
+2023-11-30T23:43:42.120Z [my-bank-api] info: API started!
+2023-11-30T23:45:53.870Z [my-bank-api] info: API started!
+2023-11-30T23:47:42.838Z [my-bank-api] info: API started!
+2023-11-30T23:48:23.686Z [my-bank-api] info: API started!
+2023-11-30T23:48:39.689Z [my-bank-api] info: API started!
+2023-12-01T20:02:08.492Z [my-bank-api] info: API started!
+2023-12-01T20:08:46.167Z [my-bank-api] info: API started!
